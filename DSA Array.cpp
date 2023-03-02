@@ -101,8 +101,8 @@ int main() {
 
     while (true) {
         cout << "1. Add value to array" << endl;
-        cout << "2. Add value at start of array" << endl;
-        cout << "3. Add value at end of array" << endl;
+        cout << "2. Insert value at start of array" << endl;
+        cout << "3. Insert value at end of array" << endl;
         cout << "4. Delete value from array" << endl;
         cout << "5. Delete value from start of array" << endl;
         cout << "6. Delete value from end of array" << endl;
